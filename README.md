@@ -4,7 +4,7 @@
 
 ## :camera: Demonstração
 <h1 align="center">   
-  <img alt="resultado" src=""/>
+  <img alt="resultado" src="https://github.com/rodrigodiasf1984/ignite-dtmoney/blob/master/src/assets/demonstration/dtmoney.gif"/>
 </h1>
 
 ## :rocket: Sobre o aplicação web
